@@ -1,0 +1,6 @@
+[submodule "travis-martin-meal-planner"]
+	path = travis-martin-meal-planner
+	url = https://github.com/trvsm/travis-martin-meal-planner.git
+[submodule "travis-martin-meal-planner-backend"]
+	path = travis-martin-meal-planner-backend
+	url = https://github.com/trvsm/travis-martin-meal-planner-backend.git
