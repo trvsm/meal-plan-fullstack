@@ -1,0 +1,24 @@
+{
+  "name": "meal-plan-fullstack",
+  "private": true,
+  "version": "1.0.0",
+  "description": "meal planner monorepo for netlify deploy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "travis-martin-meal-planner",
+    "travis-martin-meal-planner-backend"
+  ],
+  "keywords": [
+    "meal",
+    "food",
+    "node",
+    "react"
+  ],
+  "author": "Travis Martin",
+  "license": "ISC",
+  "dependencies": {
+    "travis-martin-capstone": "^1.0.0"
+  }
+}
